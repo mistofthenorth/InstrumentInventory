@@ -1,0 +1,7 @@
+[05-Sep-2015 01:05:49 UTC] PHP Fatal error:  Call to undefined function close() in /home/mrsowenmusic/public_html/Inventory/footer.php on line 16
+[05-Sep-2015 01:06:07 UTC] PHP Fatal error:  Call to undefined function close() in /home/mrsowenmusic/public_html/Inventory/footer.php on line 16
+[05-Sep-2015 01:06:25 UTC] PHP Fatal error:  Call to undefined function close() in /home/mrsowenmusic/public_html/Inventory/footer.php on line 16
+[05-Sep-2015 01:06:31 UTC] PHP Fatal error:  Call to undefined function close() in /home/mrsowenmusic/public_html/Inventory/footer.php on line 16
+[05-Sep-2015 01:06:36 UTC] PHP Fatal error:  Call to undefined function close() in /home/mrsowenmusic/public_html/Inventory/footer.php on line 16
+[05-Sep-2015 01:08:37 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mrsowenmusic/public_html/Inventory/instrumentTable.php on line 6
+[05-Sep-2015 01:58:44 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/mrsowenmusic/public_html/Inventory/instrumentTable.php on line 6
